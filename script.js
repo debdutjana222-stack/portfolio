@@ -46,7 +46,7 @@ const SITE_CONFIG = {
 // Easy placeholders for student names + links
 const STUDENTS = [
   {
-    name: "Student Name 1",
+    name: "Debdut Jana",
     image: "",
     department: "ECE",
     year: "2nd Year",
